@@ -1,4 +1,4 @@
-# tec-johann-muller-machine
+# tec-Johann-Muller-Machine
 tec1 controlled Johann Muller calculating machine
 
 
